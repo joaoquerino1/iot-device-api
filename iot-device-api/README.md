@@ -64,6 +64,8 @@ Acesse a documentação interativa em: **http://localhost:8000/docs**
 ---
 
 ## 📁 Estrutura do projeto
+
+```plaintext
 iot-device-api/
 ├── app/
 │   ├── main.py
@@ -75,9 +77,10 @@ iot-device-api/
 │       └── events.py
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
 ## 👨‍💻 Autor
 
-Feito por **João Vitor** — em desenvolvimento contínuo 🚀
+Feito por **João Querino** — em desenvolvimento e aprendizagem contínua 🚀
