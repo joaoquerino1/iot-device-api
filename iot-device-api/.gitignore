@@ -2,7 +2,7 @@
 venv/
 
 # Banco de dados SQLite
-*.db
+*iot.db
 
 # Cache do Python
 __pycache__/
